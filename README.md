@@ -2,7 +2,7 @@
 
 ## todos os exercícios devem ter um menu interativo para chamar as funções e ter uma opção de sair para finalizar a execução
 
-1. [x] Escreva um código onde temos uma conta bancaria que possa realizar as seguintes operações:
+1. Escreva um código onde temos uma conta bancaria que possa realizar as seguintes operações:
     - Consultar saldo; ✔️
     - consultar cheque especial; ✔️
     - Depositar dinheiro; ✔️
@@ -20,13 +20,13 @@ Siga as seguintes regras para implementar
 --------
 
 2. Escreva um código onde controlamos as funções de um carro, ele deve ter as seguintes funções: ⏳
-   - Ligar o carro; 
-   - Desligar o carro;
-   - Acelerar;
-   - diminuir velocidade;
-   - virar para esquerda/direita;
-   - verificar velocidade;
-   - trocar a marcha;
+   - Ligar o carro; ✔️
+   - Desligar o carro; ✔️
+   - Acelerar; ✔️
+   - diminuir velocidade; ✔️
+   - virar para esquerda/direita; ✔️
+   - verificar velocidade; ✔️
+   - trocar a marcha; ✔️
 
 Siga as seguintes regras na implementação
   - Quando o carro for criado ele deve começar desligado, em ponto morto e com sua velocidade em 0;
